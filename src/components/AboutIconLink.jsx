@@ -10,4 +10,5 @@ function AboutIconLink() {
     </div>
   );
 }
+
 export default AboutIconLink;
